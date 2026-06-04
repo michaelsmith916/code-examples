@@ -1,6 +1,6 @@
 # Code Examples
 
-A collection of software development examples, prototypes, and reference implementations demonstrating various technologies, architectures, and programming techniques I've used throughout my career.
+A collection of software development examples, and reference implementations demonstrating various programming techniques I've used throughout my career.
 
 This repository is intended to provide hiring managers, recruiters, engineers, and technical leaders with examples of coding style, application architecture, and problem-solving approaches across multiple domains.
 
